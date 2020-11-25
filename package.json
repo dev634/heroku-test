@@ -1,1 +1,19 @@
-
+{
+  "name": "pablo-heroku-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev634/pablo-heroku-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev634/pablo-heroku-test/issues"
+  },
+  "homepage": "https://github.com/dev634/pablo-heroku-test#readme"
+}
